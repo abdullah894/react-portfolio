@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/static/js/main.8756508d.js",
+    "static/media/gazello.png": "/static/media/gazello.eab8a9c87a72a742912d.png",
+    "static/media/hansabus.png": "/static/media/hansabus.62b35ae416677e96447f.png",
+    "static/media/product packaging.jpg": "/static/media/product packaging.f82ba47f6de86b58607b.jpg",
+    "static/media/RYVE_Chehan.png": "/static/media/RYVE_Chehan.772ad75c6e4dba17a743.png",
+    "static/media/Ecomrece.png": "/static/media/Ecomrece.1df5aa56fb8948bc1287.png",
+    "static/media/blue professional modern CV resume.pdf": "/static/media/blue professional modern CV resume.86e8aebe9a1b7f274294.pdf",
+    "static/media/React-App.png": "/static/media/React-App.cfe6fa35ee269d3ae4cc.png",
+    "static/media/Landing Page.jpg": "/static/media/Landing Page.7ba88adf4b81d4dbf1b8.jpg",
+    "static/media/Beadsworks.png": "/static/media/Beadsworks.0e606ba1694481804811.png",
+    "static/media/IMG-20230205-WA0016.jpg": "/static/media/IMG-20230205-WA0016.42a5ce41cf68425d9d1f.jpg",
+    "static/media/Login-page.png": "/static/media/Login-page.7a4093b464b7129eb496.png",
+    "static/media/logo.png": "/static/media/logo.c66be40f86b75e0c5981.png",
+    "static/media/ecomreceadminLogin-Page.png": "/static/media/ecomreceadminLogin-Page.796299d5990e8efb1885.png",
+    "index.html": "/index.html",
+    "main.8756508d.js.map": "/static/js/main.8756508d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8756508d.js"
+  ]
+}
